@@ -1,0 +1,11 @@
+1. FUENTES DE DATOS UTILIZADAS 
+  Datos proporcionados en la actividad, los datos de los centros deportivos (iedntificados, nombre y ciudad), datos obtenidos mediante la API de Open-Meteo
+2. ARCHIVOS DE ENTRADA
+  Para realizar el ejercicio se necesitaban los archivos CSV Y Excel originales.
+3. CÓMO DESCARGAR LOS ARCHIVOS EN GOOGLE COLAB 
+  Abrir el Notebook desde Google Colal y en el panel de archivos subir los archivos CSV Y Evel 
+4. PROCESO REALIZADO
+5. SALIDAS
+  El notebook genera tablas con datos preparados y resultados del anaálisis. También exporta los resultados en formatos CSV, EXCEL Y JSON 
+6.DECLARACIÓN SOBRE EL USO ODE LA IA
+  La IA se ha utilizado para consultar dudas, y comprobar en algunos pasos del código la causa del error. 
